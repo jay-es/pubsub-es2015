@@ -1,0 +1,29 @@
+{
+  "name": "pubsub-es2015",
+  "version": "1.0.0",
+  "description": "Micro Pub/Sub library written in ES2015",
+  "main": "pubsub-es2015.js",
+  "keywords": [
+    "es2015",
+    "pubsub",
+    "pub/sub",
+    "publish/subscribe",
+    "publish",
+    "subscribe"
+    "event",
+    "namespace",
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.15.0",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-plugin-html": "^2.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.9.0"
+  }
+}

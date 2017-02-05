@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb",
+  "plugins": [
+    "html"
+  ],
+  "rules": {
+    no-param-reassign: ["error", { "props": false }],
+  },
+  globals: {
+    pubsub,
+  },
+}
